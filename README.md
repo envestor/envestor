@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome, Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
-Happy to  to see you here! My name is Emmanuel, an up and coming dev-ops engineer with a strong passion for Python and creating practical solutions for everyday problems.
+Happy to see you here! My name is Emmanuel, an up and coming dev-ops engineer with a strong passion for Python and creating practical solutions for everyday problems.
 I balance writing comprehensive code by playing competitive sports like:
 - Football ⚽
 - Tennis/Padel 🎾

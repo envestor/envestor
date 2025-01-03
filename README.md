@@ -31,5 +31,4 @@ Take a scroll through my portfolio where you'll find no two projects are the sam
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=envestor&show_icons=true&theme=radical&locale=en" alt="envestor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=envestor&theme=highcontrast" alt="envestor" /></p>
 
